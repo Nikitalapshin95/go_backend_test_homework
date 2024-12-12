@@ -1,5 +1,6 @@
 package main
 
+// anime
 import (
 	"fmt"
 )
@@ -11,3 +12,5 @@ func Add(a, b int) int {
 func main() {
 	fmt.Println("Я домашка")
 }
+
+// hi
